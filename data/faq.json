@@ -1,0 +1,72 @@
+[
+  {
+    "id": "horario",
+    "palavras_chave": ["horário", "horario", "funcionamento", "abre", "fecha", "aberto", "atendimento", "expediente"],
+    "perguntas_exemplo": [
+      "Qual o horário de funcionamento?",
+      "Que horas vocês abrem?",
+      "Vocês estão abertos agora?"
+    ],
+    "resposta": "🕘 Nosso horário de atendimento é de *segunda a sexta, das 9h às 18h*. Fora desse horário, pode deixar sua mensagem que respondemos no próximo dia útil!"
+  },
+  {
+    "id": "precos",
+    "palavras_chave": ["preço", "preco", "valor", "custa", "custo", "plano", "planos", "orçamento", "orcamento", "tabela"],
+    "perguntas_exemplo": [
+      "Quanto custa o serviço?",
+      "Qual o valor dos planos?",
+      "Queria um orçamento"
+    ],
+    "resposta": "💰 Nossos planos começam em *R$ 99/mês*. Para um orçamento personalizado, digite *agendar* e marque uma conversa com nosso time comercial — é rapidinho!"
+  },
+  {
+    "id": "endereco",
+    "palavras_chave": ["endereço", "endereco", "localização", "localizacao", "onde", "fica", "local", "cidade", "presencial"],
+    "perguntas_exemplo": [
+      "Onde vocês ficam?",
+      "Qual o endereço?",
+      "Atendem presencialmente?"
+    ],
+    "resposta": "📍 Estamos na *Av. Principal, 1000 — Centro*. Também atendemos 100% online, se preferir!"
+  },
+  {
+    "id": "pagamento",
+    "palavras_chave": ["pagamento", "pagar", "pix", "boleto", "cartão", "cartao", "parcelar", "parcelamento", "formas"],
+    "perguntas_exemplo": [
+      "Quais as formas de pagamento?",
+      "Aceitam Pix?",
+      "Posso parcelar?"
+    ],
+    "resposta": "💳 Aceitamos *Pix, boleto e cartão de crédito* (parcelamento em até 12x). O pagamento é 100% seguro e você recebe a nota fiscal por e-mail."
+  },
+  {
+    "id": "suporte",
+    "palavras_chave": ["suporte", "problema", "erro", "ajuda", "funciona", "quebrou", "defeito", "reclamação", "reclamacao"],
+    "perguntas_exemplo": [
+      "Estou com um problema",
+      "Preciso de suporte técnico",
+      "Não está funcionando"
+    ],
+    "resposta": "🛠️ Sinto muito pelo transtorno! Nosso suporte técnico atende de segunda a sexta, das 9h às 18h. Descreva seu problema aqui que um atendente humano vai te responder, ou digite *humano* para falar direto com a equipe."
+  },
+  {
+    "id": "prazo",
+    "palavras_chave": ["prazo", "demora", "entrega", "tempo", "quando", "dias", "pronto"],
+    "perguntas_exemplo": [
+      "Qual o prazo de entrega?",
+      "Quanto tempo demora?",
+      "Quando fica pronto?"
+    ],
+    "resposta": "⏱️ O prazo médio é de *5 a 10 dias úteis*, dependendo da complexidade do projeto. Após a contratação você recebe um cronograma detalhado."
+  },
+  {
+    "id": "cancelamento",
+    "palavras_chave": ["cancelar", "cancelamento", "reembolso", "devolução", "devolucao", "desistir", "estorno"],
+    "perguntas_exemplo": [
+      "Como faço para cancelar?",
+      "Tem reembolso?",
+      "Quero desistir da compra"
+    ],
+    "resposta": "↩️ Você pode cancelar a qualquer momento, sem multa. Compras têm garantia de reembolso em até *7 dias*, conforme o Código de Defesa do Consumidor. Digite *humano* para que a equipe cuide do seu caso."
+  }
+]

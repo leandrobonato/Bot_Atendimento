@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados gerados em runtime pelo bot
+data/agendamentos.json
